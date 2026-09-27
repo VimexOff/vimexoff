@@ -22,6 +22,11 @@ Currently building out backend projects focused on concurrency, APIs, and servic
 * 🎮 Minecraft has been my main creative playground for many years
 * ☕ Not a coffee person — more into tea and sugar water
 * ❤️ I enjoy simple, clean and well-structured code
+
+## 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timofey-kormilkin/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kormilkintimofey@gmail.com)
 <!--
 **VimexOff/vimexoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
