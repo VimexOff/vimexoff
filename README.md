@@ -5,7 +5,7 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-Backend%20Roles-2563EB?style=flat-square)
 
-I'm Vimex — a backend developer working with Go, Python and C#, based in Tbilisi, Georgia. I also create Minecraft mods as a side project.
+I'm Vimex — a backend developer working with Go, Python and C#, relocating to Tbilisi, Georgia. I also create Minecraft mods as a side project.
 
 Currently building out backend projects focused on concurrency, APIs, and service design. Everything here is built from scratch.
 
