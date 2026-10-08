@@ -19,8 +19,10 @@ Currently building out backend projects focused on concurrency, APIs, and servic
 
 ## GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VimexOff&show_icons=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimexOff&layout=compact&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VimexOff&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VimexOff&show_icons=true&hide_border=true" />
+</picture>
 
 ## A Bit About Me
 * 🛠 I love turning ideas into working mods and tools
