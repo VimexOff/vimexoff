@@ -17,13 +17,6 @@ Currently building out backend projects focused on concurrency, APIs, and servic
 * Minecraft: Forge, Fabric, NeoForge
 * Tools: Git, AI-assisted workflows (Claude Code)
 
-## GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VimexOff&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VimexOff&show_icons=true&hide_border=true" />
-</picture>
-
 ## A Bit About Me
 * 🛠 I love turning ideas into working mods and tools
 * 🎮 Minecraft has been my main creative playground for many years
