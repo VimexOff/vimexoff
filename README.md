@@ -13,7 +13,7 @@ I build backend projects focused on APIs, concurrency, and reliable data process
 
 <img src="https://skillicons.dev/icons?i=go,python,cs,mysql,git,docker" />
 
-- Languages: Go, Python, C#
+- Languages: Go, Python, C# (Also: Java, Kotlin, Rust)
 - Backend & Data: REST APIs, SQL, MySQL, SQLite
 - Tools: Git, Docker, pytest
 
